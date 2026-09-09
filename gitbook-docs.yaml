@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: garak
+  structure:
+    - type: space
+      key: space-1
+      title: garak
+      path: garak
+      default: true
+      content:
+        directory: ./garak
